@@ -1,4 +1,4 @@
-# Cash-Estimation-Modelling-with-R
+# Cash-Estimation-Modelling-with-SAS
 Cash Estimation Modelling
 
 Introduction: Understanding the pivotal role of cash holdings in shaping a firm's future performance and market dynamics is crucial in modern financial analysis. Our analysis aims to estimate optimal cash levels for individual firms. Through rigorous statistical modeling, we seek to ascertain whether companies hold surplus or inadequate cash compared to their estimated targets.
